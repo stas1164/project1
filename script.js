@@ -18,5 +18,5 @@ console.log(arr[0]);
 //alert('Hello');
 //let answer = confirm('Are you here');
 //console.log(answer);
-let answer = prompt('Есть 18','Да');
+let answer = prompt('Есть','Да');
 console.log(typeof(answer));
